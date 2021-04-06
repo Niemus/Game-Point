@@ -1,0 +1,10 @@
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\ResolveAssemblyReference.cache
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра_типа_очка.Form1.resources
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра_типа_очка.Resources.resources
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра типа очка.vbproj.GenerateResource.Cache
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Release\Игра типа очка.exe
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Release\Игра типа очка.pdb
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Release\Игра типа очка.xml
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра типа очка.exe
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра типа очка.xml
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Release\Игра типа очка.pdb

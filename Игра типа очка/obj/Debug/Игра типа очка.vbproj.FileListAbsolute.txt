@@ -1,0 +1,33 @@
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Debug\Игра типа очка.exe
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Debug\Игра типа очка.pdb
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\bin\Debug\Игра типа очка.xml
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра_типа_очка.Form1.resources
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра_типа_очка.Resources.resources
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра типа очка.vbproj.GenerateResource.Cache
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра типа очка.exe
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра типа очка.xml
+C:\Users\s0\AppData\Local\Temporary Projects\Игра типа очка\obj\Debug\Игра типа очка.pdb
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.exe
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.xml
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.pdb
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.exe
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.pdb
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.xml
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\ResolveAssemblyReference.cache
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра_типа_очка.Form1.resources
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра_типа_очка.Resources.resources
+G:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.vbproj.GenerateResource.Cache
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.exe
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.xml
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.pdb
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.exe
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.pdb
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\bin\Debug\Игра типа очка.xml
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\ResolveAssemblyReference.cache
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра_типа_очка.Form1.resources
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра_типа_очка.Resources.resources
+D:\Univ\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.vbproj.GenerateResource.Cache
+C:\Users\rasso\Desktop\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.exe
+C:\Users\rasso\Desktop\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.xml
+C:\Users\rasso\Desktop\Проекты\Ochlo\Игра типа очка\Игра типа очка\obj\Debug\Игра типа очка.pdb
